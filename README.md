@@ -1,2 +1,2 @@
-# pig-game
-Pig dice game with AI and double player
+View this project : 
+https://codepen.io/natsudragneel93/full/bPXmoQ
